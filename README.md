@@ -1,10 +1,10 @@
 # Customer_Behavior_Report_In_Excel
 
 ## Project Objective
-The Vrinda Store Customer Behavior Report project aims to analyze 2022 sales and order data, focusing on trends in orders versus sales, gender and age group preferences, order statuses, top-performing states, and sales channels.
+This project analyzes Vrinda Store’s 2022 sales and order data to uncover customer behavior and business insights. The analysis explores trends in orders vs. sales, gender and age group preferences, order statuses, top-performing states, and sales channels. The goal is to identify patterns that can help improve decision-making, optimize sales strategies, and better understand customer demographics.
 
 ## Dataset used
-- <a href="https://github.com/eshita100/Vrinda-Store-Customer-Behavior-Report-/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/fahmidasultana14/Customer_Behavior_Report_In_Excel/blob/main/Customer%20Behavior%20Report.xlsx">Dataset</a>
 ## Questions (KPIs)
 Questions (KPIs)
 -Compare the sales and orders using single chart.
@@ -25,4 +25,4 @@ Questions (KPIs)
 
 -Percentage of Total Orders delivered
 
--Dashboard Interaction <a href="https://github.com/eshita100/Vrinda-Store-Customer-Behavior-Report-/blob/main/Customer%20Data%20Analysis.png">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/fahmidasultana14/Customer_Behavior_Report_In_Excel/blob/main/Data%20Analysis%20Image.png">View Dashboard</a>
